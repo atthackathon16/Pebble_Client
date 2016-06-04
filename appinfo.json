@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ivylin@usc.edu",
+    "enableMultiJS": true,
+    "longName": "atthack16",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "atthack16",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "3e9880da-7bba-4bc0-8224-1f23353a498b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
